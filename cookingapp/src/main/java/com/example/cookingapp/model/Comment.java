@@ -2,7 +2,6 @@ package com.example.cookingapp.model;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
-
 import java.time.LocalDateTime;
 
 @Entity
@@ -28,6 +27,9 @@ public class Comment {
     @PrePersist
     protected void onCreate() {
         commentedAt = LocalDateTime.now();
+    }
+    public LocalDateTime getCommentedAt() {
+        return commentedAt;
     }
 
     // Getters and setters
