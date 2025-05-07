@@ -1,8 +1,8 @@
 package com.example.cookingapp.model;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.*;
-
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -31,8 +31,9 @@ public class Recipe {
 
     private String videoUrl;
     private int like_count = 0;
+    @JsonFormat(pattern="yyyy-MM-dd HH:mm:ss")
     private LocalDateTime createdAt;
-
+    @JsonFormat(pattern="yyyy-MM-dd HH:mm:ss")
     private LocalDateTime updatedAt;
 
     // A recipe can have many comments; we'll use a one-to-many relationship.
@@ -105,4 +106,14 @@ public class Recipe {
     public void setVideoUrl(String videoUrl) {
         this.videoUrl = videoUrl;
     }
+    // near your other getters
+
+    public LocalDateTime getCreatedAt() {
+        return createdAt;
+    }
+
+    public LocalDateTime getUpdatedAt() {
+        return updatedAt;
+    }
+
 }
