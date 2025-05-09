@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebeb8d82-821e-4e3b-9658-9ad3fa6e54fc" name="Changes" comment="Add cooking video repository" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Aseni02"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SavithOlitha/FlavorsJourney-Cooking-App.git",
+    "accountId": "4d2b29c6-dced-42ab-8e29-09533afb05d7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2wmFVWH0uhmmybKJrFRUE0qlJUc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Aseni's-Branch",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Aseni/Desktop/ITPM/FlavorsJourney-Cooking-App/cookingapp/cookingapp/src/main/java/com/example/cookingapp"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aseni\Desktop\ITPM\FlavorsJourney-Cooking-App\cookingapp\cookingapp\src\main\java\com\example\cookingapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.cookingapp.repository" />
+      <recent name="com.example.cookingapp.model" />
+      <recent name="com.example.cookingapp.dto" />
+      <recent name="com.example.cookingapp.controller" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebeb8d82-821e-4e3b-9658-9ad3fa6e54fc" name="Changes" comment="" />
+      <created>1746638865559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746638865559</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add cooking video comment section">
+      <option name="closed" value="true" />
+      <created>1746639190536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746639190536</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add cooking video backend  part">
+      <option name="closed" value="true" />
+      <created>1746639289349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746639289349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Cooking video watchlist part">
+      <option name="closed" value="true" />
+      <created>1746639342870</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746639342870</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cooking video comment changes">
+      <option name="closed" value="true" />
+      <created>1746639412013</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746639412014</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cooking video comment changes added">
+      <option name="closed" value="true" />
+      <created>1746639444826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746639444826</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Cooking video comment section changes">
+      <option name="closed" value="true" />
+      <created>1746639550473</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746639550473</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cooking video comment section changes new">
+      <option name="closed" value="true" />
+      <created>1746639579569</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746639579569</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add cooking video repository">
+      <option name="closed" value="true" />
+      <created>1746639665513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746639665513</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add cooking video comment section" />
+    <MESSAGE value="Add cooking video backend  part" />
+    <MESSAGE value="Cooking video watchlist part" />
+    <MESSAGE value="Cooking video comment changes" />
+    <MESSAGE value="Cooking video comment changes added" />
+    <MESSAGE value="Cooking video comment section changes" />
+    <MESSAGE value="Cooking video comment section changes new" />
+    <MESSAGE value="Add cooking video repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add cooking video repository" />
+  </component>
+</project>
